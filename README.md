@@ -13,7 +13,7 @@ https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme
 "workbench.colorTheme": "One Dark Pro"
 ```
 
-I prefer the `Catppuccin Perfect Icons` icon theme.
+I prefer the `Catppuccin Perfect Icons` icon theme.\
 https://marketplace.visualstudio.com/items?itemName=thang-nm.catppuccin-perfect-icons
 
 ```
