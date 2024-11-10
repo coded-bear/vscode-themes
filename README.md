@@ -6,13 +6,15 @@ VSCode sample themes
 
 ### minimal-gray-theme
 
-This theme uses and overwrites the `One Dark Pro` extension (https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme).
+This theme uses and overwrites the `One Dark Pro` extension.
+https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme
 
 ```
 "workbench.colorTheme": "One Dark Pro"
 ```
 
-I prefer the `Catppuccin Perfect Icons` icon theme (https://marketplace.visualstudio.com/items?itemName=thang-nm.catppuccin-perfect-icons).
+I prefer the `Catppuccin Perfect Icons` icon theme.
+https://marketplace.visualstudio.com/items?itemName=thang-nm.catppuccin-perfect-icons
 
 ```
 "workbench.iconTheme": "catppuccin-perfect-dark"
