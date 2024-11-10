@@ -1,0 +1,10 @@
+{
+  "workbench.iconTheme": "catppuccin-perfect-dark", // optional icon theme extension
+  "workbench.colorTheme": "One Dark Pro", // optional color theme extension
+  "workbench.colorCustomizations": {
+    // 'colors' data from the configuration file of the selected theme
+  },
+  "editor.tokenColorCustomizations": {
+    // 'tokenColors' data from the configuration file of the selected theme
+  }
+}
