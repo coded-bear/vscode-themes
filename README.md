@@ -6,7 +6,7 @@ VSCode sample themes
 
 ### minimal-gray-theme
 
-This theme uses and overwrites the `One Dark Pro` extension.
+This theme uses and overwrites the `One Dark Pro` extension.\
 https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme
 
 ```
